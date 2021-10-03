@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone+Bounce:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone+Bounce:wght@500&family=Indie+Flower&family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone+Bounce:wght@500&family=Indie+Flower&family=Patua+One&display=swap');
+
+body {
+    background-color: cornsilk;
+}
+
+.heading1 {
+    text-align: center;
+    font-family: 'Birthstone Bounce', cursive;
+    font-size: 3rem;
+    color: rgb(75, 75, 0);
+}
+
+.generaltext {
+    font-size: 1rem;
+    font-family: 'Patua One', cursive;
+    color: rgb(75, 33, 3);
+}
+
+.logo {
+    text-align: center;
+    font-family: 'Patua One', cursive;
+}
+
+.tabelmenu {
+    width: 800px;
+    border-color: dimgray;
+    margin: auto;
+    font-size: 2rem;
+}
+
+.info div {
+    height: 150px;
+    width: 150px;
+    border: 7px solid black;
+    border-radius: 45%;
+    margin: 2rem auto;
+}
+
+.retsept1 {
+    text-align: center;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+.info {
+    margin: auto;
+}
+
+.main {
+    border: 7px solid;
+    color: rgb(0, 0, 0);
+}
+
+.ra {
+    vertical-align: top;
+    text-align: left;
+    margin: 0 auto;
+    color: black;
+}
+
+.makaronid {
+    width: 500px;
+}
+
+#a {
+    color: black;
+    font-family: 'Patua One', cursive;
+}
+
+#b {
+    color: black;
+    font-family: 'Patua One', cursive;
+}
+
+#c {
+    color: black;
+    font-family: 'Patua One', cursive;
+}
+
+.footer {
+    text-align: center;
+}
